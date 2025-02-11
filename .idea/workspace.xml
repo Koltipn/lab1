@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b521a1e-e0c4-48c5-b91b-f96bc402e537" name="Список изменений" comment="">
+      <change beforePath="$PROJECT_DIR$/.gigaide/gigaide.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gigaide/gigaide.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gigateam/gigateam.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/files/floatTypes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/files/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/files/integerTypes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/files/longTypes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/files/stringTypes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/files/test_doubles.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/files/test_integers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/files/test_longs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/files/test_strings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lab1/CheckType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lab1/Distribution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lab1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lab1/CheckTypeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lab1/DistributionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/test_doubles.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/test_integers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/test_longs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/test_strings.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Koltipn&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Koltipn/lab1.git&quot;,
+    &quot;accountId&quot;: &quot;fa936f68-2398-498a-9081-c9fdc6552f42&quot;
+  }
+}</component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2suChDKRGPjGDT1Ez2YRN9FtdYc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.lab1 [:org.example.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/drozd/Рабочий стол/ucheba/lab1&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="уровень приложения" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Задача по умолчанию">
+      <changelist id="8b521a1e-e0c4-48c5-b91b-f96bc402e537" name="Список изменений" comment="" />
+      <created>1739296189779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739296189779</updated>
+    </task>
+    <servers />
+  </component>
+</project>
