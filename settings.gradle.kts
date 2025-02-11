@@ -1,2 +1,2 @@
-rootProject.name = "laba1"
+rootProject.name = "javaProg"
 
